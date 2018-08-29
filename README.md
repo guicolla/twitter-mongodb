@@ -17,4 +17,4 @@ After install the prerequisites, you need to execute a code with arguments, the 
 ```
 python twitter_mongodb.py Hadoop 50
 ```
-In this example my code go search 50 results with the word Hadoop in twitter
+In this example my code go search 50 results with the word Hadoop in twitter and store into mongodb
